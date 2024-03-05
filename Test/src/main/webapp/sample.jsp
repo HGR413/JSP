@@ -9,6 +9,5 @@
 <body>
 	<h1>안녕하세요</h1>
 	<h3>올라갈까요</h3>
-	dkssudgkdld
 </body>
 </html>
