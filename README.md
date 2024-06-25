@@ -1,2 +1,2 @@
-# JSP
-JSP수업자료
+# Storage
+저장소
